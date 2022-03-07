@@ -1,0 +1,607 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Libre+Franklin:ital,wght@0,400;1,200&family=Open+Sans:wght@500&family=Roboto:ital,wght@0,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Libre+Franklin:ital,wght@0,400;1,200&family=Open+Sans:wght@500&family=Roboto+Slab:wght@700;800&family=Roboto:ital,wght@0,400;1,700&display=swap');
+.fotter {
+    display: flex;
+    font-family: Roboto;
+    width: 1440px;
+    height: 780px;
+    background-color: #9DC9C8;
+}
+h2 {
+    font-weight: 700;
+    font-family: 'Roboto Slab' ,serif;
+    font-style: normal;
+    position: absolute;
+    width: 908px;
+    height: 66px;
+    margin-left: 122px;
+    margin-top: 179px;
+    margin-right: 410px;
+    margin-bottom: 535px;
+    color: black;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 55.76px;
+}
+.element1 {
+    font-weight: 400;
+    position: absolute;
+    width: 170px;
+    height: 32px;
+    margin-left: 122px;
+    margin-top: 299px;
+    margin-bottom: 449px;
+    margin-right: 1148px;
+    font-size: 25px;
+    line-height: 25.35px;
+    color: black;
+}
+.element2 {
+    position: absolute;
+    font-style: normal;
+    font-weight: normal;
+    width: 481px;
+    height: 181px;
+    margin-top: 329px;
+    margin-bottom: 270px;
+    margin-left: 122px;
+    margin-right: 837px;
+    font-size: 80px;
+    line-height: 81.11px;
+    color: black;
+}
+.element3 {
+    position: absolute;
+    width: 294px;
+    height: 32px;
+    margin-top: 484px;
+    margin-bottom: 264px;
+    margin-left: 122px;
+    margin-right: 1024px;
+    font-size: 25px;
+    line-height: 25.35px;
+    color: black;
+}
+.element4 {
+    font-family: Roboto;
+    position: absolute;
+    width: 322px;
+    height: 32px;
+    margin-left: 486px;
+    margin-top: 484px;
+    margin-bottom: 264px;
+    margin-right: 632px;
+    font-size: 25px;
+    line-height: 25.35px;
+    color: black;
+}
+.element5 {
+    position: absolute;
+    width: 294px;
+    height: 70px;
+    margin-left: 122px;
+    margin-top: 525px;
+    margin-bottom: 185px;
+    margin-right: 1024px;
+    font-size: 18px;
+    line-height: 18.25px;
+    color: black;
+}
+.element6 {
+    position: absolute;
+    width: 294px;
+    height: 70px;
+    margin-left: 486px;
+    margin-top: 525px;
+    margin-bottom: 185px;
+    margin-right: 660px;
+    font-size: 18px;
+    line-height: 18.25px;
+    color: black;
+}
+.main-fotter {
+    display: flex;
+    font-family: Roboto;
+    background-color: black;
+    width: 1440px;
+    height: 390px;
+}
+.content1 {
+    position: absolute;
+    width: 115px;
+    height: 68px;
+    margin-left: 121px;
+    margin-top: 50px;
+    margin-bottom: 272px;
+    margin-right: 1203px;
+}
+.content2 {
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    margin-left: 976px;
+    margin-top: 54px;
+    margin-right: 437px;
+    margin-bottom: 309px;
+}
+.content3 {
+    position: absolute;
+    width: 230px;
+    height: 40px;
+    margin-left: 1025px;
+    margin-top: 59px;
+    margin-right: 185px;
+    margin-bottom: 291px;
+    font-size: 25px;
+    line-height: 25.35px;
+    color: white;
+}
+.content4 {
+    position: absolute;
+    width: 27px;
+    height: 18px;
+    margin-left: 976px;
+    margin-top: 106px;
+    margin-right: 437px;
+    margin-bottom: 266px;
+}
+.content5 {
+    position: absolute;
+    width: 269px;
+    height: 40px;
+    margin-left: 1025px;
+    margin-bottom: 248px;
+    margin-right: 146px;
+    margin-top: 102px;
+    font-size: 25px;
+    line-height: 25.35px;
+    color: white;
+}
+.content6 {
+    position: absolute;
+    width: 33px;
+    height: 33px;
+    margin-left: 122px;
+    margin-bottom: 209px;
+    margin-right: 1285px;
+    margin-top: 148px;
+}
+.content7 {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    margin-left: 173px;
+    margin-bottom: 210px;
+    margin-top: 148px;
+    margin-right: 1235px;
+}
+.content8 {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    margin-top: 146px;
+    margin-bottom: 209px;
+    margin-left: 226px;
+    margin-right: 1179px;
+}
+.content9 {
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    margin-top: 147px;
+    margin-bottom: 209px;
+    margin-left: 286px;
+    margin-right: 1120px;
+}
+.content10 {
+    position: absolute;
+    width: 230px;
+    height: 40px;
+    margin-top: 327px;
+    margin-bottom: 23px;
+    margin-left: 122px;
+    margin-right: 1088px;
+    font-size: 18px;
+    line-height: 18.25px;
+    color: white;
+}
+#content-mobile {
+    display: none;
+}
+@media (max-width:1279px) {
+    .fotter {
+        display: flex;
+        font-family: Roboto;
+        width: 834px;
+        height: 451.75px;
+        background-color: #9DC9C8;
+    }
+    h2 {
+        font-weight: 700;
+        font-family: 'Roboto Slab' ,serif;
+        font-style: normal;
+        position: absolute;
+        width: 525.88px;
+        height: 38.23px;
+        margin-left: 70.66px;
+        margin-top: 103.67px;
+        margin-right: 237.46px;
+        margin-bottom: 309.85px;
+        color: black;
+        font-weight: bold;
+        font-size: 32px;
+        line-height: 32.44px;
+    }
+    .element1 {
+        font-weight: 400;
+        position: absolute;
+        width: 98.46px;
+        height: 18.53px;
+        margin-left: 70.66px;
+        margin-top: 173.17px;
+        margin-bottom: 260.05px;
+        margin-right: 664.88px;
+        font-size: 14px;
+        line-height: 14.19px;
+        color: black;
+    }
+    .element2 {
+        position: absolute;
+        font-style: normal;
+        font-weight: normal;
+        width: 278.58px;
+        height: 104.83px;
+        margin-top: 190.55px;
+        margin-bottom: 156.37px;
+        margin-left: 70.66px;
+        margin-right: 484.76px;
+        font-size: 46px;
+        line-height: 46.64px;
+        color: black;
+    }
+    .element3 {
+        position: absolute;
+        width: 170.28px;
+        height: 18.53px;
+        margin-top: 280.32px;
+        margin-bottom: 152.9px;
+        margin-left: 70.66px;
+        margin-right: 593.07px;
+        font-size: 14px;
+        line-height: 14.19px;
+        color: black;
+    }
+    .element4 {
+        font-family: Roboto;
+        position: absolute;
+        width: 186.49px;
+        height: 18.53px;
+        margin-left: 281.47px;
+        margin-top: 280.32px;
+        margin-bottom: 152.9px;
+        margin-right: 366.03px;
+        font-size: 14px;
+        line-height: 14.19px;
+        color: black;
+    }
+    .element5 {
+        position: absolute;
+        width: 170.28px;
+        height: 40.54px;
+        margin-left: 70.66px;
+        margin-top: 304.06px;
+        margin-bottom: 107.15px;
+        margin-right: 593.07px;
+        font-size: 10px;
+        line-height: 10.14px;
+        color: black;
+    }
+    .element6 {
+        position: absolute;
+        width: 170.28px;
+        height: 40.54px;
+        margin-left: 281.47px;
+        margin-top: 304.06px;
+        margin-bottom: 107.15px;
+        margin-right: 382.25px;
+        font-size: 10px;
+        line-height: 10.14px;
+        color: black;
+    }
+    .main-fotter {
+        display: flex;
+        font-family: Roboto;
+        background-color: black;
+        width: 834px;
+        height: 225.88px;
+    }
+    .content1 {
+        position: absolute;
+        width: 66.6px;
+        height: 39.38px;
+        margin-top: 28.96px;
+        margin-left: 70.66px;
+        margin-bottom: 157.53px;
+        margin-right: 696.74px;
+    }
+    .content2 {
+        position: absolute;
+        width: 15.64px;
+        height: 15.64px;
+        margin-left: 565.27px;
+        margin-top: 31.28px;
+        margin-right: 253.1px;
+        margin-bottom: 178.96px;
+    }
+    .content3 {
+        position: absolute;
+        width: 133.21px;
+        height: 23.17px;
+        margin-left: 593.65px;
+        margin-top: 34.17px;
+        margin-right: 107.15px;
+        margin-bottom: 168.54px;
+        font-size: 14px;
+        line-height: 14.19px;
+        color: white;
+    }
+    .content4 {
+        position: absolute;
+        width: 15.64px;
+        height: 10.43px;
+        margin-left: 565.27px;
+        margin-top: 61.39px;
+        margin-right: 253.1px;
+        margin-bottom: 154.06px;
+    }
+    .content5 {
+        position: absolute;
+        width: 155.8px;
+        height: 23.17px;
+        margin-left: 593.65px;
+        margin-bottom: 143.63px;
+        margin-right: 84.56px;
+        margin-top: 59.07px;
+        font-size: 14px;
+        line-height: 14.19px;
+        color: white;
+    }
+    .content6 {
+        position: absolute;
+        width: 19.11px;
+        height: 19.11px;
+        margin-left: 70.66px;
+        margin-bottom: 121.05px;
+        margin-right: 744.23px;
+        margin-top: 85.72px;
+    }
+    .content7 {
+        position: absolute;
+        width: 18.53px;
+        height: 18.53px;
+        margin-left: 100.2px;
+        margin-bottom: 121.62px;
+        margin-top: 85.72px;
+        margin-right: 715.27px;
+    }
+    .content8 {
+        position: absolute;
+        width: 20.27px;
+        height: 20.27px;
+        margin-top: 84.56px;
+        margin-bottom: 121.05px;
+        margin-left: 130.89px;
+        margin-right: 682.84px;
+    }
+    .content9 {
+        position: absolute;
+        width: 19.69px;
+        height: 19.69px;
+        margin-top: 85.14px;
+        margin-bottom: 121.05px;
+        margin-left: 165.64px;
+        margin-right: 648.67px;
+    }
+    .content10 {
+        position: absolute;
+        width: 133.21px;
+        height: 23.17px;
+        margin-top: 189.39px;
+        margin-bottom: 13.32px;
+        margin-left: 70.66px;
+        margin-right: 630.13px;
+        font-size: 10px;
+        line-height: 10.14px;
+        color: white;
+    }
+    #content-mobile {
+        display: none;
+    }
+}
+@media (max-width: 991px) {
+    .fotter {
+        display: flex;
+        font-family: Roboto;
+        width: 376px;
+        height: 363px;
+        background-color: #9DC9C8;
+    }
+    h2 {
+        font-weight: 700;
+        font-family: 'Roboto Slab' ,serif;
+        font-style: normal;
+        position: absolute;
+        width: 224px;
+        height: 63px;
+        margin-left: 35px;
+        margin-top: 62px;
+        margin-right: 117px;
+        margin-bottom: 238px;
+        color: black;
+        font-weight: bold;
+        font-size: 26px;
+        line-height: 26.36px;
+    }
+    .element1 {
+        font-weight: 400;
+        position: absolute;
+        width: 79.22px;
+        height: 14.91px;
+        margin-left: 34.85px;
+        margin-top: 147.33px;
+        margin-bottom: 200.76px;
+        margin-right: 261.94px;
+        font-size: 12px;
+        line-height: 12.17px;
+        color: black;
+    }
+    .element2 {
+        position: absolute;
+        font-style: normal;
+        font-weight: normal;
+        width: 224.13px;
+        height: 84.34px;
+        margin-top: 161.3px;
+        margin-bottom: 117.35px;
+        margin-left: 34.85px;
+        margin-right: 117.02px;
+        font-size: 37px;
+        line-height: 37.51px;
+        color: black;
+    }
+    .element3 {
+        position: absolute;
+        width: 137px;
+        height: 14.91px;
+        margin-top: 233.53px;
+        margin-bottom: 114.56px;
+        margin-left: 35.85px;
+        margin-right: 203.16px;
+        font-size: 12px;
+        line-height: 12.17px;
+        color: black;
+    }
+    .element4 {
+        font-family: Roboto;
+        position: absolute;
+        width: 151px;
+        height: 14px;
+        margin-left: 204px;
+        margin-top: 234px;
+        margin-bottom: 115px;
+        margin-right: 21px;
+        font-size: 12px;
+        line-height: 12.17px;
+        color: black;
+    }
+    .element5 {
+        position: absolute;
+        width: 138px;
+        height: 47px;
+        margin-left: 35px;
+        margin-top: 253px;
+        margin-bottom: 63px;
+        margin-right: 203px;
+        font-size: 10px;
+        line-height: 10.14px;
+        color: black;
+    }
+    .element6 {
+        position: absolute;
+        width: 140px;
+        height: 38px;
+        margin-left: 204px;
+        margin-top: 253px;
+        margin-bottom: 72px;
+        margin-right: 32px;
+        font-size: 10px;
+        line-height: 10.14px;
+        color: black;
+    }
+    .main-fotter {
+        display: flex;
+        font-family: Roboto;
+        background-color: black;
+        width: 375px;
+        height: 251px;
+    }
+    .content1 {
+        position: absolute;
+        width: 53.59px;
+        height: 31.69px;
+        margin-left: 37.85px;
+        margin-top: 23.3px;
+        margin-bottom: 196.02px;
+        margin-right: 283.56px;
+    }
+    .content2 {
+        visibility: hidden;
+    }
+    .content3 {
+        visibility: hidden;
+    }
+    .content4 {
+        visibility: hidden;
+    }
+    .content5 {
+        visibility: hidden;
+    }
+    .content6 {
+        position: absolute;
+        width: 15.38px;
+        height: 15.38px;
+        margin-left: 37.85px;
+        margin-bottom: 166.66px;
+        margin-right: 321.77px;
+        margin-top: 68.96px;
+    }
+    .content7 {
+        position: absolute;
+        width: 14.91px;
+        height: 14.91px;
+        margin-left: 61.61px;
+        margin-bottom: 167.12px;
+        margin-top: 68.96px;
+        margin-right: 298.48px;
+    }
+    .content8 {
+        position: absolute;
+        width: 16.31px;
+        height: 16.31px;
+        margin-top: 68.03px;
+        margin-bottom: 166.66px;
+        margin-left: 86.31px;
+        margin-right: 272.38px;
+    }
+    .content9 {
+        position: absolute;
+        width: 15.84px;
+        height: 15.84px;
+        margin-top: 68.5px;
+        margin-bottom: 166.66px;
+        margin-left: 114.27px;
+        margin-right: 244.89px;
+    }
+    .content10 {
+        position: absolute;
+        width: 141px;
+        height: 19px;
+        margin-top: 222px;
+        margin-bottom: 10px;
+        margin-left: 38px;
+        margin-right: 196px;
+        font-size: 10px;
+        line-height: 10.14px;
+        color: white;
+    }
+    #content-mobile {
+        display: flex;
+        position: absolute;
+        width: 148.18px;
+        height: 41.01px;
+        margin-top: 132px;
+        margin-bottom: 77.99px;
+        margin-right: 188.82px;
+        margin-left: 38px;
+    }
+}
