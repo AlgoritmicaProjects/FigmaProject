@@ -1,0 +1,206 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Slab:wght@700&display=swap');
+
+.container{
+display: flex;
+flex-direction: column;
+width: 1440px;
+height: 780px;
+background: #EFEFEF;
+
+}
+.pisik {
+width: 987px;
+height: 93px;
+font-family: 'Roboto Slab' ,sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 55px;
+margin-top: 91px;
+margin-left: 122px;
+}
+.it {
+width: 791px;
+height: 451px;
+background: #FFFFFF;
+box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+margin-top: 61px;
+margin-left: 145px;
+
+}
+.it1 {
+
+
+font-family: 'Roboto' ,sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+margin-top: 54px;
+margin-left: 45px;
+margin-right: 46px;
+
+}
+.audi {
+    display: flex;
+    align-items: center;
+}
+.sekilc {
+    
+    width: 190px;
+    height: 169px; 
+    margin-right: 30px;
+}
+.it4 {
+width: 353px;
+height: 59px;
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+margin-top: 9px;
+}
+.sekilc1 {
+width: 32px;
+height: 31px;
+}
+
+@media screen and (min-width: 992px) and (max-width: 1279px) {
+    .container{
+        display: flex;
+        flex-direction: column;
+        width: 834px;
+        height: 451.75px;
+        background: #EFEFEF;
+       }
+       
+       
+         .pisik {
+        width: 571.64px;
+        height: 53.86px;
+        font-family: 'Roboto Slab' ,sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 32px;
+        margin-top: 52.7px;
+        margin-left: 70.66px;
+        }
+
+        .it {
+        width: 458.12px;
+        height: 261.2px;
+        background: #FFFFFF;
+        box-shadow: 0.579167px 0.579167px 11.5833px rgba(0, 0, 0, 0.25);
+        border-radius: 17.375px;
+        margin-top: 19.69px;
+        margin-left: 72.97px;
+        
+        }
+        .it1 {
+        
+        
+        font-family: 'Roboto' ,sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        margin-top: 23.17px;
+        margin-left: 26.06px;
+        margin-right: 26.64px;
+        
+        }
+        .audi {
+            display: flex;
+            align-items: center;
+        }
+        .sekilc {
+            width: 110.04px;
+            height: 97.88px; 
+            margin-right: 17.38px;
+        }
+        .it4 {
+        width: 204.45px;
+        height: 34.17px;
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 17px;
+        margin-top: 9px;
+        }
+        .sekilc1 {
+        width: 18.53px;
+        height: 17.95px;
+        }
+    }
+
+
+
+
+    @media screen and (min-width: 320px) and (max-width: 991px) {
+        .container{
+            display: flex;
+            flex-direction: column;
+            width: 376px;
+            height: 423px;
+            background: #EFEFEF;
+           }
+           
+           
+             .pisik {
+            width: 257px;
+            height: 69px;
+            font-family: 'Roboto Slab' ,sans-serif;
+            font-style: normal;
+            font-weight: bold;
+            font-size: 26px;
+            margin-top: 42px;
+            margin-left: 36px;
+            }
+    
+            .it {
+                width: 308px;
+                height: 248px;
+            background: #FFFFFF;
+            box-shadow: 0.579167px 0.579167px 11.5833px rgba(0, 0, 0, 0.25);
+            border-radius: 17.375px;
+            margin-top: 11px;
+            margin-left: 36px;
+            
+            }
+            .it1 {
+            
+            
+            font-family: 'Roboto' ,sans-serif;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 10px;
+            margin-top: 18.47px;
+            margin-left: 21px;
+            margin-right: 21px;
+            
+            }
+            .audi {
+                display: flex;
+                align-items: center;
+            }
+            .sekilc {
+                width: 80px;
+                height: 84px; 
+                margin-right: 13.63px;
+            }
+            .it4 {
+            width: 164.49px;
+            height: 32.73px;
+            font-family: 'Roboto Slab';
+            font-style: normal;
+            font-weight: bold;
+            font-size: 14px;
+            margin-top: 9px;
+            }
+            .sekilc1 {
+            width: 14.91px;
+            height: 17.2px;
+            }
+        }
+
+
+
+   
